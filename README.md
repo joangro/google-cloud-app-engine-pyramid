@@ -19,6 +19,7 @@ source env/bin/activate
 3. Install libraries to environment and to lib folder:
 ```
 mkdir lib
+pip install -r requirements.txt
 pip install -t lib -r requirements.txt
 ```
 
