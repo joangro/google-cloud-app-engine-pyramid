@@ -42,5 +42,5 @@ gcloud app deploy
 
 Browse the app:
 ```
-gcloud app browse -s <service_name_in_yaml_file>
+gcloud app browse -s <service_name_in_app.yaml_file>
 ```
