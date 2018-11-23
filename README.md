@@ -1,6 +1,6 @@
 # google-cloud-app-engine-pyramid
 
-Basic example on how to run [Pyramid framewrok](https://docs.pylonsproject.org/projects/pyramid/en/latest/) in the cloud 
+Basic example on how to build a [Pyramid framewrok](https://docs.pylonsproject.org/projects/pyramid/en/latest/) application with Google Cloud 
 
 ## Installation
 
