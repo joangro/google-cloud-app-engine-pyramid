@@ -32,7 +32,7 @@ Run:
 python main.py
 ```
 
-And [preview through the console](https://cloud.google.com/shell/docs/features#web_preview).
+And [preview through Cloud Shell](https://cloud.google.com/shell/docs/features#web_preview).
 
 
 ### Deploying the app
